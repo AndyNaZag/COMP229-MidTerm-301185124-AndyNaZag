@@ -1,0 +1,26 @@
+/* Custom CSS goes here */
+body {
+  padding-bottom: 70px;
+  }
+
+.coffee {
+  margin-top: 10%;
+}
+
+.t {
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;  
+  justify-content: flex-start;
+}
+
+
+.d {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
